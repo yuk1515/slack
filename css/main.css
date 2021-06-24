@@ -1,0 +1,16 @@
+.slider .slick-prev{
+    left:390px;
+}
+.slider .slick-next{
+    right:350px;
+}
+.slider .slick-prev,.slider .slick-next{
+    z-index:100;
+}
+.slider .slick-prev:before,
+.slider .slick-next:before{
+    color:black;
+}
+img{
+  padding-left:420px;
+}
